@@ -14,7 +14,7 @@ To activate the bot, please do this:
 python -m venv venv
 . venv/bin/activate
 pip install -r requirements.txt
-python main.py
+python bot.py
 ```
 
 Licensed under GNU General Public License v3.0.

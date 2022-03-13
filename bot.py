@@ -15,7 +15,7 @@ bot = telebot.TeleBot(TOKEN, parse_mode=None)
 LANG = "English"
 
 phrases = {}
-with open('phrases.csv', 'r', encoding='utf-8') as phrases_file:
+with open('src/phrases.csv', 'r', encoding='utf-8') as phrases_file:
     reader = csv.reader(phrases_file)
     for row in reader:
         phrases[row[0]] = {'English': row[1], 'Русский': row[2]}
@@ -72,7 +72,7 @@ def send_instructions(message, language=LANG):
     chat_id = message.chat.id
     user_id = message.from_user.id
 
-    with open('instruction.jpg', 'rb') as instr_pic_file:
+    with open('src/instruction.jpg', 'rb') as instr_pic_file:
         instruction_pic = instr_pic_file.read()
 
     bot.send_photo(chat_id, instruction_pic)
