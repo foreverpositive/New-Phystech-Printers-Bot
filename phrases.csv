@@ -1,0 +1,6 @@
+"hello","Hello, {}!","Привет, {}!"
+"choose_lang","Please choose the language:","Пожалуйста, выберите язык:"
+"lang_chosen","Language has been succesfully set!","Язык был успешно изменён!"
+"instruction","Are you first time here? If so, please paste your Telegram ID ({}) to your profile here: https://physics.itmo.ru/","Вы здесь впервые? Если так, то, пожалуйста, вставьте ваш Telegram ID ({}) в профиль на сайте факультета: https://physics.itmo.ru/"
+"help","This is a bot that helps faculty members of New Phystech work with faculty's public printers. Here you can easily choose a method of printing, which data will be printed with selected printer.","Данный бот помогает сотрудникам Нового Физтеха ФТФ ИТМО работать с общими принтерами факультета. Здесь вы можете ввести информацию, которую нужно распечатать, или отправить файл для печати, а также выбрать, на каком принтере будет происходить печать."
+"wrong_lang","Wrong language chosen. You can always change it using /language command.","Выбран неправильный язык. Вы всегда можете изменить его, используя команду /language."
