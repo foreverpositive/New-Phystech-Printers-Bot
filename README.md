@@ -1,5 +1,9 @@
 # New Phystech Printers Telegram Bot
 
+<img src="src/pic.png"
+     alt="Picture"
+     style="vertical-align: middle; width: 50%; height: 50%"/>
+
 Telegram bot that helps faculty members of New Phystech work with faculty's public printers.
 
 This bot can:
