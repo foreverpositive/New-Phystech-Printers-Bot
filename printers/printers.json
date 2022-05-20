@@ -1,0 +1,98 @@
+{
+    "print0": {
+        "Domain": "print0.metalab.ifmo.ru",
+        "Model": "Xerox WorkCentre 3325",
+        "Location": "unknown",
+        "IP": "unknown"
+    },
+    "print7": {
+        "Domain": "print7.metalab.ifmo.ru",
+        "Model": "Xerox WorkCentre 3345",
+        "Location": "unknown",
+        "IP": "unknown"
+    },
+    "print9": {
+        "Domain": "print9.metalab.ifmo.ru",
+        "Model": "Xerox WorkCentre 3335",
+        "Location": "Entrance",
+        "IP": "172.16.39.14"
+    },
+    "print10": {
+        "Domain": "print10.metalab.ifmo.ru",
+        "Model": "Xerox WorkCentre 3345",
+        "Location": "Coffee",
+        "IP": "172.16.39.15"
+    },
+    "print11": {
+        "Domain": "print11.metalab.ifmo.ru",
+        "Model": "Xerox WorkCentre 3325",
+        "Location": "unknown",
+        "IP": "unknown"
+    },
+    "print13": {
+        "Domain": "print13.metalab.ifmo.ru",
+        "Model": "Canon c3520i",
+        "Location": "unknown",
+        "IP": "unknown"
+    },
+    "print13-2": {
+        "Domain": "print13-2.metalab.ifmo.ru",
+        "Model": "Canon c3520i A3",
+        "Location": "unknown",
+        "IP": "unknown"
+    },
+    "print14": {
+        "Domain": "print14.metalab.ifmo.ru",
+        "Model": "Xerox WorkCentre 3325",
+        "Location": "unknown",
+        "IP": "unknown"
+    },
+    "print15": {
+        "Domain": "print15.metalab.ifmo.ru",
+        "Model": "Xerox WorkCentre 3345",
+        "Location": "unknown",
+        "IP": "unknown"
+    },
+    "print16": {
+        "Domain": "print16.metalab.ifmo.ru",
+        "Model": "Xerox WorkCentre 3345",
+        "Location": "unknown",
+        "IP": "unknown"
+    },
+    "print17": {
+        "Domain": "print17.metalab.ifmo.ru",
+        "Model": "Xerox WorkCentre 3325",
+        "Location": "unknown",
+        "IP": "unknown"
+    },
+    "print18": {
+        "Domain": "print18.metalab.ifmo.ru",
+        "Model": "Kyocera M3540DN",
+        "Location": "unknown",
+        "IP": "unknown"
+    },
+    "print19": {
+        "Domain": "print19.metalab.ifmo.ru",
+        "Model": "Xerox WorkCentre 3345",
+        "Location": "Library",
+        "IP": "172.16.39.26"
+    },
+    "print431": {
+        "Domain": "print431.metalab.ifmo.ru",
+        "Model": "Xerox WorkCentre 3345",
+        "Location": "unknown",
+        "IP": "unknown"
+    },
+    "printunknown1": {
+        "Domain": "printunknown1.metalab.ifmo.ru",
+        "Model": "Kyocera ECOSYS M3040dn br16",
+        "Location": "unknown",
+        "IP": "unknown"
+    },
+    "printunknown2": {
+        "Domain": "printunknown2.metalab.ifmo.ru",
+        "Model": "Kyocera FS-C5150DN XPS",
+        "Location": "unknown",
+        "IP": "unknown"
+    }
+}

@@ -1,15 +1,16 @@
+import os
 import json
 import requests
 
 
-with open('printers/access-token', 'r', encoding='utf-8') as token_file:
-    TOKEN = token_file.read()
-
-
 def is_member(telegram_id):
+    token = os.environ['API_TOKEN']
+    # with open('printers/access-token', 'r', encoding='utf-8') as token_file:
+    #     token = token_file.read()
+
     url = 'https://physics.itmo.ru/ru/rest/export/json/users-telegram-id-roles'
     params = {'_format': 'json', 'telegram_id_value': telegram_id}
-    headers = {'Authorization': f'Bearer {TOKEN}'}
+    headers = {'Authorization': f'Bearer {token}'}
 
     response = requests.get(url, params=params, headers=headers)
     resp = json.loads(response.text)

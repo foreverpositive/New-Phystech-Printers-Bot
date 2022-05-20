@@ -1,0 +1,42 @@
+{
+    "hello": {
+        "en": "Hello, {}!",
+        "ru": "Привет, {}!"
+    },
+    "choose_lang": {
+        "en": "Please choose the language:",
+        "ru": "Пожалуйста, выберите язык:"
+    },
+    "lang_chosen": {
+        "en": "Language has been succesfully set!",
+        "ru": "Язык был успешно изменён!"
+    },
+    "instruction": {
+        "en": "Are you first time here? If so, please paste your Telegram ID ({}) to your profile here: https://physics.itmo.ru/",
+        "ru": "Вы здесь впервые? Если так, то, пожалуйста, вставьте ваш Telegram ID ({}) в профиль на сайте факультета: https://physics.itmo.ru/"
+    },
+    "help": {
+        "en": "This is a bot that helps faculty members of New Phystech work with faculty's public printers. Here you can easily choose a method of printing, which data will be printed with selected printer.",
+        "ru": "Данный бот помогает сотрудникам Нового Физтеха ФТФ ИТМО работать с общими принтерами факультета. Здесь вы можете ввести информацию, которую нужно распечатать, или отправить файл для печати, а также выбрать, на каком принтере будет происходить печать."
+    },
+    "wrong_lang": {
+        "en": "Wrong language chosen. You can always change it using /language command.",
+        "ru": "Выбран неправильный язык. Вы всегда можете изменить его, используя команду /language."
+    },
+    "choose_printer": {
+        "en": "Please choose the printer:",
+        "ru": "Пожалуйста, выберите принтер:"
+    },
+    "not_member": {
+        "en": "Sorry, you are not a member of New Phystech faculty. Please follow instructions:",
+        "ru": "Извините, вы не сотрудник Нового Физтеха. Пожалуйста, воспользуйтесь инструкцией:"
+    },
+    "not_tr": {
+        "en": "Sorry, this sentence has not been translated yet.",
+        "ru": "Извините, это фраза ещё не переведена."
+    },
+    "send_file": {
+        "en": "Please send the content you would like to print. It can be text in a messages, one or more images, PDF files. Start with defining mode: «Text», «Pictures», «PDF». After you sent all content, type /done.",
+        "ru": "Пожалуйста, пришлите то, что вы бы хотели распечатать: текст из сообщений, одно или несколько изображений, PDF файлы. Начните с сообщения, указывающего на тип: «Текст», «Изображения», «PDF». После этого отправьте /done."
+    }
+}
