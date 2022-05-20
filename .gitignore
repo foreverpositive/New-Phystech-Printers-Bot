@@ -1,4 +1,6 @@
-TOKEN.secret
+logs/
+*token*
+*.ods
 TODO.md
 
 ### IDEs
